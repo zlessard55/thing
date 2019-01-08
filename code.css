@@ -6,7 +6,7 @@
 h1 {
     border: solid purple 4px;
     border-radius: 10px;
-    margin: 30px;
+    margin: 10px;
     align-text: center;
     padding: 10px;
     display: inline-block;
@@ -15,7 +15,7 @@ h1 {
 h2 {
     border: solid red 3px;
     border-radius:10px;
-    margin: 20px;
+    margin: 10px;
     align-text: center;
      padding: 10px;
     display: inline-block;
@@ -24,7 +24,7 @@ h2 {
 ul {
     border: solid purple 4px;
     border-radius: 10px;
-    margin: 30px;
+    margin: 10px;
     align-text: center;
      padding: 20px;
     display: inline-block;
