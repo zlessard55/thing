@@ -1,31 +1,44 @@
-.broccoli-pic {
-    border: dotted 3px black;
-    border-radius: 50%;
+.main-pic {
+    border:ridge 15px white;
+    border-radius:50%;
 }
 
 h1 {
-    border: solid purple 4px;
-    border-radius: 10px;
-    margin: 10px;
-    align-text: center;
-    padding: 10px;
-    display: inline-block;
+    margin:10px;
+    align-content:center;
+    padding:10px;
+    display:inline-block;
+    color:white;
+    font-size:5em;
 }
 
 h2 {
-    border: solid red 3px;
-    border-radius:10px;
-    margin: 10px;
-    align-text: center;
-     padding: 10px;
-    display: inline-block;
+    margin:10px;
+    align-content:center;
+    padding:10px;
+    color:white;
+    font-size:2.5em;
 }
 
-ul {
-    border: solid purple 4px;
-    border-radius: 10px;
-    margin: 10px;
-    align-text: center;
-     padding: 20px;
-    display: inline-block;
+p {
+    border:solid white 4px;
+    border-radius:10px;
+    margin:10px;
+    align-content:center;
+    padding:20px;
+    color:white;
+    font-size:2em;
 }
+
+body {
+  background-color:black; 
+  display:flex;
+}
+
+.content {
+  display:inline-flex;
+  flex-direction:column;
+}
+
+
+
